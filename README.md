@@ -3,5 +3,5 @@ Hello world repository
 
 Hello All
 
-Donna Here, I like node.json and coffee they're
-far better than earth tacos.
+Donna here, I'm here to learn everything I can
+so I can stay relevent.
